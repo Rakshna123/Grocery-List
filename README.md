@@ -1,3 +1,7 @@
+# Deployment Link:-
+https://golden-stardust-05a677.netlify.app
+
+
 # Grocery List
 
 This project is a simple grocery list manager implemented using HTML, CSS, and JavaScript. Users can add items to the list, remove items, and view the list of groceries they need to buy.
